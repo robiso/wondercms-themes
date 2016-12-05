@@ -22,3 +22,6 @@
 
 ### WonderCMS plugins repository
 - https://github.com/robiso/wondercms-plugins
+
+### WonderCMS plugins forum
+- https://wondercms.com/forum/viewforum.php?f=30
