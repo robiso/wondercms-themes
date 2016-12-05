@@ -11,5 +11,14 @@
   - `find ./ -type d -exec chmod 755 {} \;`
   - `find ./ -type f -exec chmod 644 {} \;`
 
+### WonderCMS website
+- https://wondercms.com
+
 ### WonderCMS community
 - https://wondercms.com/forum/
+
+### WonderCMS themes forum
+- https://wondercms.com/forum/viewforum.php?f=29
+
+### WonderCMS plugins repository
+- https://github.com/robiso/wondercms-plugins
