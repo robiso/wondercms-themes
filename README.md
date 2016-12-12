@@ -5,13 +5,13 @@
 - Approved themes get upladed to the APPROVED subforum: https://wondercms.com/forum/viewforum.php?f=29
 
 ### List of currently approved themes
-- darkBlue 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=778)
-- gold 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=779)
-- green 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=780)
-- lightBlue 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=781)
-- pink 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=782)
-- purple 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=783)
-- red 1.0.0 author: Robert Isoski (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=784)
+- darkBlue 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=778)
+- gold 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=779)
+- green 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=780)
+- lightBlue 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=781)
+- pink 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=782)
+- purple 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=783)
+- red 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=784)
 
 ### Installation
 1. Download and unzip your chosen theme.
