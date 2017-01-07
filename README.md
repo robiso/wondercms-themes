@@ -1,8 +1,13 @@
-### How to create a WonderCMS theme? 8 easy steps:
-- WonderCMS theme documentation: https://wondercms.com/forum/viewtopic.php?f=27&t=755
+# WonderCMS themes
+- Themes repository for WonderCMS (https://www.wondercms.com)
 
-### WonderCMS approved themes location and download
-- Approved themes get upladed to the APPROVED subforum: https://wondercms.com/forum/viewforum.php?f=29
+### Installation
+1. Download and unzip your chosen theme.
+2. Upload theme to your WonderCMS themes folder.
+2. The theme can be activated in the drop down menu from your WonderCMS settings.
+
+### Create WonderCMS theme in 8 easy steps
+- https://wondercms.com/forum/viewtopic.php?f=27&t=755
 
 ### List of currently approved themes
 - darkBlue 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=778)
@@ -13,15 +18,11 @@
 - purple 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=783)
 - red 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=784)
 
-### Installation
-1. Download and unzip your chosen theme.
-2. Upload theme to your WonderCMS themes folder.
-2. The theme can be activated in the drop down menu from your WonderCMS settings.
-
-### Submitting your own theme
-1. Make a pull request with your own theme folder name to the theme repository: https://github.com/robiso/wondercms-themes/tree/master/themes
-2. All tested and approved themes will be added as a standalone thread in the 1.x.x APPROVED themes subforum, along with the theme being compressed in a ZIP format for user convenience.
-3. Chosen approved themes will also be added to the WonderCMS demo.
+### Submitting themes
+1. Create your theme and upload it to GitHub. Notify us via either GitHub or WonderCMS community.
+2. A pull request will be made to our plugins repository https://github.com/robiso/wondercms-themes/tree/master/plugins
+3. All tested and approved themes will be added as a standalone thread in the 1.x.x APPROVED themes subforum, along with the theme being compressed in a ZIP format for user convenience.
+- Chosenpproved themes will also be featured in the official WonderCMS demo.
 
 ### If any errors occur, please correct file permissions to 644 and folder permissions to 755. You can do this manually or with the script below (added by Bill Carson)
   - `find ./ -type d -exec chmod 755 {} \;`
@@ -32,6 +33,9 @@
 
 ### WonderCMS community
 - https://wondercms.com/forum/
+
+### WonderCMS docs
+- https://www.wondercms.com/forum/viewforum.php?f=27
 
 ### WonderCMS themes forum
 - https://wondercms.com/forum/viewforum.php?f=29
