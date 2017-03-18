@@ -16,8 +16,10 @@
 - red 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 - oldDefault 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 
-### Create WonderCMS theme in 8 easy steps
-- https://wondercms.com/forum/viewtopic.php?f=27&t=755
+### A list of themes can also be found in the "releases" tab: https://github.com/robiso/wondercms-themes/releases
+
+### How to create theme in 8 easy steps
+- https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
 
 ### Submitting themes
 1. Create your theme and upload it to GitHub.
@@ -37,7 +39,7 @@
 - https://wondercms.com/forum/
 
 ### WonderCMS docs
-- https://www.wondercms.com/forum/viewforum.php?f=27
+- https://github.com/robiso/wondercms/wiki
 
 ### WonderCMS themes forum
 - https://wondercms.com/forum/viewforum.php?f=29
