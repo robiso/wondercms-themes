@@ -6,23 +6,25 @@
 2. Upload theme to your WonderCMS themes folder.
 2. The theme can be activated in the drop down menu from your WonderCMS settings.
 
+### List of currently approved themes (all themes are for WonderCMS 2.0.0+)
+- darkBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
+- gold 2 (download: https://github.com/robiso/wondercms-themes/releases/download/gold-2/gold-2.zip)
+- green 2 (downloadp: https://github.com/robiso/wondercms-themes/releases/download/green-2/green-2.zip)
+- lightBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/lightBlue-2/lightBlue-2.zip)
+- pink 2 (download: https://github.com/robiso/wondercms-themes/releases/download/pink-2/pink-2.zip)
+- purple 2 (download: https://github.com/robiso/wondercms-themes/releases/download/purple-2/purple-2.zip)
+- red 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
+- oldDefault 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
+
 ### Create WonderCMS theme in 8 easy steps
 - https://wondercms.com/forum/viewtopic.php?f=27&t=755
 
-### List of currently approved themes
-- darkBlue 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=778)
-- gold 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=779)
-- green 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=780)
-- lightBlue 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=781)
-- pink 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=782)
-- purple 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=783)
-- red 1.0.0 (download and setup: https://wondercms.com/forum/viewtopic.php?f=29&t=784)
-
 ### Submitting themes
-1. Create your theme and upload it to GitHub. Notify us via either GitHub or WonderCMS community.
-2. A pull request will be made to our plugins repository https://github.com/robiso/wondercms-themes/tree/master/plugins
-3. All tested and approved themes will be added as a standalone thread in the 1.x.x APPROVED themes subforum, along with the theme being compressed in a ZIP format for user convenience.
-- Chosenpproved themes will also be featured in the official WonderCMS demo.
+1. Create your theme and upload it to GitHub.
+2. Create a release file on GitHub with your theme in ZIP format.
+3. Notify us via either GitHub or community or make a pull request to this README and add your theme + link to GitHub ZIP).
+4. All tested and approved themes will be successfully submitted.
+ - Approved themes will also be featured in the official WonderCMS demo.
 
 ### If any errors occur, please correct file permissions to 644 and folder permissions to 755. You can do this manually or with the script below (added by Bill Carson)
   - `find ./ -type d -exec chmod 755 {} \;`
