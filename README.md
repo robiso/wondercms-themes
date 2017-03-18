@@ -1,10 +1,9 @@
-# WonderCMS themes
-- Themes repository for WonderCMS (https://www.wondercms.com)
+## Themes repository for WonderCMS 2.0.0+ (https://www.wondercms.com)
 
-### Installation
+### Theme installation instructions
 1. Download and unzip your chosen theme.
-2. Upload theme to your WonderCMS themes folder.
-2. The theme can be activated in the drop down menu from your WonderCMS settings.
+2. Upload theme folder to your WonderCMS themes folder.
+2. Theme can be activated in the drop down menu from your settings panel.
 
 ### List of currently approved themes (all themes are for WonderCMS 2.0.0+)
 - darkBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
@@ -16,16 +15,16 @@
 - red 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 - oldDefault 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 
-### A list of themes can also be found in the "releases" tab: https://github.com/robiso/wondercms-themes/releases
+### A list of themes can also be found in the releases tab: https://github.com/robiso/wondercms-themes/releases
 
 ### How to create theme in 8 easy steps
 - https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
 
-### Submitting themes
-1. Create your theme and upload it to GitHub.
+### Submitting a theme
+1. Create theme and upload it to GitHub.
 2. Create a release file on GitHub with your theme in ZIP format.
-3. Notify us via either GitHub or community or make a pull request to this README and add your theme + link to GitHub ZIP).
-4. All tested and approved themes will be successfully submitted.
+3. Notify us via either GitHub or community or make a pull request to this README and add your theme + link to theme ZIP on GitHub.
+4. All tested and approved themes will be submitted.
  - Approved themes will also be featured in the official WonderCMS demo.
 
 ### If any errors occur, please correct file permissions to 644 and folder permissions to 755. You can do this manually or with the script below (added by Bill Carson)
