@@ -27,13 +27,13 @@ h3 {margin: 0;}
 .rounded5 {border-radius: 5px;}
 
 .grayFont {color: #444;}
-.darkBlueBackground {background: #7785dd;}
+.darkBlueBackground {background: #121427;}
 .whiteBackground {background: #fff;}
 
 .navbar {
 	border: 0;
 	border-radius: 0;
-	background-color: #7785dd;
+	background-color: #121427;
 }
 
 .navbar li a {
@@ -55,5 +55,5 @@ footer {
 	bottom: 0;
 	width: 100%;
 	position: absolute;
-	background: #7785dd;
+	background: #121427;
 }
