@@ -8,7 +8,7 @@
 ### List of currently approved themes (all themes are for WonderCMS 2.0.0+)
 - darkBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
 - gold 2 (download: https://github.com/robiso/wondercms-themes/releases/download/gold-2/gold-2.zip)
-- green 2 (downloadp: https://github.com/robiso/wondercms-themes/releases/download/green-2/green-2.zip)
+- green 2 (download: https://github.com/robiso/wondercms-themes/releases/download/green-2/green-2.zip)
 - lightBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/lightBlue-2/lightBlue-2.zip)
 - pink 2 (download: https://github.com/robiso/wondercms-themes/releases/download/pink-2/pink-2.zip)
 - purple 2 (download: https://github.com/robiso/wondercms-themes/releases/download/purple-2/purple-2.zip)
