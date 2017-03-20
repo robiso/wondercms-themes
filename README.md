@@ -40,11 +40,5 @@
 ### WonderCMS docs
 - https://github.com/robiso/wondercms/wiki
 
-### WonderCMS themes forum
-- https://wondercms.com/forum/viewforum.php?f=29
-
 ### WonderCMS plugins repository
 - https://github.com/robiso/wondercms-plugins
-
-### WonderCMS plugins forum
-- https://wondercms.com/forum/viewforum.php?f=30
