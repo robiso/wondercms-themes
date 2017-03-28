@@ -14,15 +14,14 @@
 - purple 2 (download: https://github.com/robiso/wondercms-themes/releases/download/purple-2/purple-2.zip)
 - red 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 - oldDefault 2 (download: https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
-
-### A list of themes can also be found in the releases tab: https://github.com/robiso/wondercms-themes/releases
+- bike Theme 2 (download: https://github.com/turboblack/wondercms_theme/files/870399/bike_theme.zip by turboblack)
 
 ### How to create theme in 8 easy steps
 - https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
 
 ### Submitting a theme
 1. Create theme and upload it to GitHub.
-2. Create a release file on GitHub with your theme in ZIP format.
+2. Create a release file on GitHub and upload your theme in ZIP format.
 3. Notify us via either GitHub or community or make a pull request to this README and add your theme + link to theme ZIP on GitHub.
 4. All tested and approved themes will be submitted.
  - Approved themes will also be featured in the official WonderCMS demo.
