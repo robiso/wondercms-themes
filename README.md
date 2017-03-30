@@ -1,9 +1,9 @@
-# Themes repository for WonderCMS 2.0.0+
+## Themes repository for WonderCMS 2.x.x+ (2.0.0 and higher versions)
 
 ### Theme installation instructions
 1. Download and unzip your chosen theme.
 2. Upload theme folder to your WonderCMS themes folder.
-2. Theme can be activated in the drop down menu from your settings panel.
+3. Theme can be activated in the drop down menu from your settings panel.
 
 ### List of currently approved themes (all themes are for WonderCMS 2.0.0+)
 - darkBlue 2 (download: https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
@@ -20,9 +20,12 @@
 - https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
 
 ### Submitting a theme
-1. Create theme and upload it to GitHub.
-2. Create a release file on GitHub and upload your theme in ZIP format.
-3. Notify us via either GitHub or community or make a pull request to this README and add your theme + link to theme ZIP on GitHub.
+1. Create a theme and upload it to GitHub.
+2. Create a ZIP file of your theme folder and upload it as a release on GitHub. For example
+ - check out our themes releases https://github.com/robiso/wondercms-themes/releases 
+3. Notify us
+ - via GitHub or the WonderCMS community https://www.wondercms.com/forum
+ - make a pull request to this README and add your theme to the list above (link to your theme ZIP on on your GitHub releases).
 4. All tested and approved themes will be submitted.
  - Approved themes will also be featured in the official WonderCMS demo.
 
