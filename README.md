@@ -23,7 +23,7 @@
 1. Create a theme and upload it to GitHub.
 
 2. Create a ZIP file of your theme folder and upload it as a release on GitHub. For example
-   - you can check out our themes releases for example https://github.com/robiso/wondercms-themes/releases
+   - for example, you can check out our themes releases https://github.com/robiso/wondercms-themes/releases
    
 3. IMPORTANT: Make sure your ZIP file is created in a way so the user can simply unzip and upload it to their theme folder.
 
@@ -31,7 +31,7 @@
    - via GitHub or the WonderCMS community https://www.wondercms.com/forum
    - make a pull request to this README and add your theme ZIP link to the list above.
 
-5. All tested and approved themes will be submitted.
+5. All tested and approved themes will be submitted and added to the list above.
    - Approved themes will also be featured in the official WonderCMS demo.
 
 ### If any errors occur, please correct file permissions to 644 and folder permissions to 755. You can do this manually or with the script below (added by Bill Carson)
