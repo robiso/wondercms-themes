@@ -22,10 +22,10 @@
 ### How to submit a theme
 1. Create a theme and upload it to GitHub.
 
-2. Create a ZIP file of your theme folder and upload it as a release on GitHub. For example
+2. Create a ZIP file of your theme folder and upload it as a release on GitHub.
    - for example, you can check out our themes releases https://github.com/robiso/wondercms-themes/releases
    
-3. IMPORTANT: Make sure your ZIP file is created in a way so the user can simply unzip and upload it to their theme folder.
+3. IMPORTANT: Make sure your ZIP file is created in a way so the user can simply unzip and upload it to their themes folder.
 
 4. Notify us
    - via GitHub or the WonderCMS community https://www.wondercms.com/forum
