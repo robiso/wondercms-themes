@@ -5,7 +5,7 @@
 2. Upload theme folder to your WonderCMS themes folder.
 3. Theme can be activated in the drop down menu from your settings panel.
 
-### List of currently approved themes (all themes are for WonderCMS 2.0.0+)
+### List of approved themes
 
 #### All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
 - material - [Download](https://github.com/tunguskha/wonder-cms-material-theme/files/888055/material.zip) | made by tunguskha
