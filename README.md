@@ -6,8 +6,8 @@
 3. Theme can be activated in the drop down menu from your settings panel.
 
 ### List of approved themes
-
-#### All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
+#### - All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
+- clean - [Download](https://github.com/prakai/wcms-_modern_settings/releases/download/1.2.0/_modern_settings-1.2.0.zip) | made by Prakai Nadee
 - material - [Download](https://github.com/tunguskha/wonder-cms-material-theme/files/888055/material.zip) | made by tunguskha
 - darkBlue 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
 - gold 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/gold-2/gold-2.zip)
