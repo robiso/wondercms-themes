@@ -7,8 +7,10 @@
 
 ### List of approved themes
 #### - All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
-- clean - [Download](https://github.com/prakai/wcms-_modern_settings/releases/download/1.2.0/_modern_settings-1.2.0.zip) | made by Prakai Nadee
-- material - [Download](https://github.com/tunguskha/wonder-cms-material-theme/files/888055/material.zip) | made by tunguskha
+- Paper Landscape - [Download](https://github.com/prakai/wcms-paper-l/releases/download/v1.0.0/paper-l-1.0.0.zip) | by Prakai Nadee
+- Paper Portrait - [Download](https://github.com/prakai/wcms-paper-p/releases/download/v1.0.0/paper-p-1.0.0.zip) | by Prakai Nadee
+- clean - [Download](https://github.com/prakai/wcms-_modern_settings/releases/download/1.2.0/_modern_settings-1.2.0.zip) | by Prakai Nadee
+- material - [Download](https://github.com/tunguskha/wonder-cms-material-theme/files/888055/material.zip) | by tunguskha
 - darkBlue 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/darkBlue-2/darkBlue-2.zip)
 - gold 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/gold-2/gold-2.zip)
 - green 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/green-2/green-2.zip)
@@ -17,7 +19,7 @@
 - purple 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/purple-2/purple-2.zip)
 - red 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
 - oldDefault 2 - [Download](https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip)
-- bike Theme 2 - [Download](https://github.com/turboblack/wondercms_theme/files/870399/bike_theme.zip) | made by turboblack
+- bike Theme 2 - [Download](https://github.com/turboblack/wondercms_theme/files/870399/bike_theme.zip) | by turboblack
 
 ### How to create theme in 8 easy steps
 - https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
