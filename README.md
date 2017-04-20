@@ -7,6 +7,7 @@
 
 ### List of approved themes
 #### - All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
+- Abstract - [Download](https://github.com/turboblack/wondercms_2.0_abstract_theme/archive/2.0.zip) | by turboblack
 - Paper Landscape - [Download](https://github.com/prakai/wcms-paper-l/releases/download/v1.0.0/paper-l-1.0.0.zip) | by Prakai Nadee
 - Paper Portrait - [Download](https://github.com/prakai/wcms-paper-p/releases/download/v1.0.0/paper-p-1.0.0.zip) | by Prakai Nadee
 - clean - [Download](https://github.com/prakai/wcms-_modern_settings/releases/download/1.2.0/_modern_settings-1.2.0.zip) | by Prakai Nadee
