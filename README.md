@@ -1,4 +1,4 @@
-## Themes repository for WonderCMS 2.x.x+ (2.0.0 and higher versions)
+## Themes/templates repository for WonderCMS 2.x.x+ (2.0.0 and higher versions)
 
 ### Theme installation instructions
 1. Download and unzip your chosen theme.
