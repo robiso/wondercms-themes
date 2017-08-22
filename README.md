@@ -1,7 +1,7 @@
 ## Themes/templates for WonderCMS 2.0.0 and higher versions
 
-### List of approved themes
-### Installation: Copy link of ZIP file and paste it in your Settings->Themes & plugins
+### - List of approved themes
+### - Installation: copy link to ZIP file and paste it in your Settings->Themes & plugins
 - All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
 
 ***Abstract*** | by turboblack
