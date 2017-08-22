@@ -30,7 +30,7 @@ h3 {margin: 0;}
 .greenBackground {background: #7d7;}
 .whiteBackground {background: #fff;}
 
-.navbar {
+ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
 	border: 0;
 	border-radius: 0;
 	background-color: #7d7;
