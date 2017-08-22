@@ -2,7 +2,7 @@
 
 ### List of approved themes
 ### Installation: Copy link of ZIP file and paste it in your Settings->Themes & plugins
-#### - All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
+- All themes can be previewed in the [WonderCMS demo](https://www.wondercms.com/demo)
 
 ***Abstract*** | by turboblack
 - https://github.com/turboblack/wondercms_2.0_abstract_theme/archive/2.0.zip
