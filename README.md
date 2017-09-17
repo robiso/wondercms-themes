@@ -44,7 +44,7 @@
 - https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip
 
 ***oldDefault 2***
-- https://github.com/robiso/wondercms-themes/releases/download/red-2/red-2.zip
+- https://github.com/robiso/wondercms-themes/releases/download/oldDefault-2/oldDefault-2.zip
 
 ### How to create theme in 8 easy steps
 - https://github.com/robiso/wondercms/wiki/Create-theme-in-8-easy-steps
