@@ -88,14 +88,6 @@
     			<div class="col-xs-12 col-sm-4">
         			<div class="box css3-shadow whiteBackground padding10">
         				<?= wCMS::block('subside') ?>
-
-        				<div class="wrapper">
-            				<div class="links">
-                                <a href="https://github.com/carbideband">
-                                    <svg class="svg-icon" style="width:30px; height:25px; fill:#75b1f2;"><use xlink:href="/themes/carbide/img/minima-social-icons.svg#github"></use></svg>
-                                </a>
-            			    </div>
-        			    </div>
         			</div>
     			</div>
     		</div>
