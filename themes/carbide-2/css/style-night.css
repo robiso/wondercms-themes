@@ -118,7 +118,6 @@ a:hover {
 
 .navbar .navbar-brand {
 	color: #fff;
-
 }
 .navbar li {
 	font-size: 13px;
@@ -131,12 +130,11 @@ a:hover {
 .navbar li a {
 	color: #fff !important;
 }
-.navbar li a:hover, .active a {
-	color: #000 !important;
-	background: none !important;
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #000 !important;
 	border-bottom: 1px solid #000;
+    background-color: inherit !important;
 }
-
 .sm-gutter {
   margin-right: -5px;
   margin-left: -5px;
@@ -256,4 +254,3 @@ span.editable, .note-editor {
 	border-radius: 3px !important;
 	border: 1px dotted #c7c1ed !important;
 }
-
