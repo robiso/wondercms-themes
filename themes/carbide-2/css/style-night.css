@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	background: url(../img/noiseb.png)  repeat top left;
+	background: url(../img/noise.png)  repeat top left;
 	background-color: #262626;
 	font-family: "Roboto", Lato, sans-serif;
 	-webkit-font-smoothing: antialiased;
@@ -30,14 +30,8 @@ a:hover {
 .whiteFont {color: #fff;}
 .padding10 {padding: 10px;}
 .padding20 {padding: 20px;}
-.padding40 {padding: 40px;}
 .colorBackground {
 	background-color: #75b1f2 !important;
-}
-
-.lightFont {
-	color:#fff; 
-	font-size:18px;
 }
 
 .btn-info {
@@ -130,10 +124,16 @@ a:hover {
 .navbar li a {
 	color: #fff !important;
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #000 !important;
-	border-bottom: 1px solid #000;
+.navbar-default .navbar-nav > .active > a {
     background-color: inherit !important;
+}
+.navbar-inverse .navbar-nav > .nav-item > a:focus, .navbar-inverse .navbar-nav > .nav-item > a:hover {
+    color: #000 !important;
+    border-bottom: 1px solid #000;
+}
+.navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    color: #fff !important;
+    border-bottom: 1px solid #fff;
 }
 .sm-gutter {
   margin-right: -5px;
@@ -170,35 +170,6 @@ a:hover {
 }
 .color-selector li a:hover, .active a {
 	border-bottom: 0;
-}
-
-.form-control:focus {
-  border-color: #75b1f2;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 4px rgba(20, 255, 60, 0.6);
-}
-
-.wrapper {
-  text-align: center;
-  margin:0 auto; }
-
-.svg-icon {
-  display: inline-block;
-  padding-left: 8px;
-  padding-right: 5px;
-  vertical-align: bottom; }
-
-.links {
-    margin: 0 auto;
-    text-align: center;
-    display: flex;
-    width: 80%;
-    justify-content: center
-}
-
-.links:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 footer {
@@ -249,8 +220,3 @@ footer p {
 		border-radius: 2px;
 }
 /* / Drop shadow without images */
-
-span.editable, .note-editor {
-	border-radius: 3px !important;
-	border: 1px dotted #c7c1ed !important;
-}
