@@ -1,3 +1,6 @@
+# This repository is deprecated - themes/plugins are now directly built into WonderCMS.
+- Please see [Custom repositories](https://github.com/robiso/wondercms/wiki/Custom-repositories)
+
 ## Themes/templates for WonderCMS 2.0.0 and higher versions
 
 ### List of approved themes
